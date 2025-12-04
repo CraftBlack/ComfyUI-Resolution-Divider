@@ -5,7 +5,7 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "ResolutionDividerNode": "Resolution Divider (VRAM Saver)"
+    "ResolutionDividerNode": "Resolution Divider"
 }
 
 # Define web directory for JS files
