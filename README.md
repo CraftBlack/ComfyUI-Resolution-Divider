@@ -13,6 +13,10 @@ This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**)
 *   **Real-Time Calculation:** The "Live Result" updates instantly via JavaScript as you adjust the slider—no need to queue the prompt to see the numbers.
 *   **VRAM Saver:** Perfect for downscaling 4K/HD images to manageable sizes for heavy models (Wan 2.1, Wan 2.2, etc.) without making the image "squashed" or "stretched".
 
+## Tested Versions
+*   **ComfyUI version:** 0.3.76
+*   **ComfyUI frontend version:** 1.33.10
+
 ## 📦 Installation
 
 ### Method 1: Manual Clone
