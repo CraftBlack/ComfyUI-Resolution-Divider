@@ -28,14 +28,14 @@ This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**)
 ## 🛠️ Usage
 
 1. **Add the Node:**
-   *   Right-click canvas -> `Add Node` -> `Resolution Utils` -> `Resolution Divider (VRAM Saver)`.
+   *   Right-click canvas -> `Resolution Divider`.
 2. **Input:**
    *   **Option A:** Type the resolution manually in `res_string` (e.g., `1024x1024`).
    *   **Option B:** Click "Upload" or select an image from the dropdown. The node will auto-fill the resolution.
 3. **Set Divider:**
    *   Adjust the `divider` float value.
    *   `1.0` = Original Size.
-   *   `1.5` = 1.5x smaller (Great for Wan 2.2).
+   *   `1.5` = 1.5x smaller (Recommended).
    *   `2.0` = Half size.
 4. **Connect:**
    *   The node outputs a custom `RESULT` string (for display) and a standard `STRING` (for info).
