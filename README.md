@@ -8,7 +8,7 @@ This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**)
 
 ## 🚀 Key Features
 
-*   **Smart Parsing:** Accepts various format inputs like `1920x1080`, `1920 1080`, or `1920, 1080`.
+*   **Smart Parsing:** Accepts various format inputs like `1920 x 1080`, `1920x1080`, `1920 1080`, or `1920, 1080`.
 *   **Auto-Detect Resolution:** Select an image from your input folder or **upload one directly** on the node. It automatically reads the dimensions.
 *   **Real-Time Calculation:** The "Live Result" updates instantly via JavaScript as you adjust the slider—no need to queue the prompt to see the numbers.
 *   **VRAM Saver:** Perfect for downscaling 4K/HD images to manageable sizes for heavy models (Wan 2.2, Kling, etc.) without making the image "squashed" or "stretched".
