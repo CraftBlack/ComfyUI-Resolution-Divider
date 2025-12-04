@@ -25,9 +25,6 @@ This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**)
    ```
 4. Restart ComfyUI.
 
-### Method 2: ComfyUI Manager
-*Coming soon... (Once registered in the index)*
-
 ## 🛠️ Usage
 
 1. **Add the Node:**
