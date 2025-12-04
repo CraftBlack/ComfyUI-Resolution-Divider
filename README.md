@@ -40,9 +40,6 @@ This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**)
    *   `1.0` = Original Size.
    *   `1.5` = 1.5x smaller (Recommended).
    *   `2.0` = Half size.
-4. **Connect:**
-   *   The node outputs a custom `RESULT` string (for display) and a standard `STRING` (for info).
-   *   *Note:* This node is primarily a calculator. You manually use the numbers shown in "Live Result" to set your Latent size, or you can expand this node to output INT width/height in the future.
 
 ## 💡 Why "Divider"?
 
