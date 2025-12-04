@@ -4,7 +4,7 @@ A smart utility node for **ComfyUI** designed to calculate downscaled resolution
 
 This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**), where using high-resolution input images often leads to **OOM (Out of Memory)** errors. It helps you find the "sweet spot" (e.g., 480p or 720p) instantly without manual calculations.
 
-![Node Screenshot](path_to_your_screenshot.png)
+![Simple Resolution Divider Node](Node%20Resolution%20Divider.png)
 
 ## 🚀 Key Features
 
