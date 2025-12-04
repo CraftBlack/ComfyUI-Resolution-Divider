@@ -1,6 +1,6 @@
 # ComfyUI-Resolution-Divider
 
-A smart utility node for **ComfyUI** designed to calculate downscaled resolutions while strictly maintaining the original aspect ratio.
+A smart utility node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) designed to calculate downscaled resolutions while strictly maintaining the original aspect ratio.
 
 This node is essential for **Image-to-Video (I2V)** workflows (like **Wan 2.2**), where using high-resolution input images often leads to **OOM (Out of Memory)** errors. It helps you find the "sweet spot" (e.g., 480p or 720p) instantly without manual calculations.
 
