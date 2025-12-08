@@ -4,7 +4,7 @@ Sebuah node utilitas sederhana dan cerdas untuk [ComfyUI](https://github.com/com
 
 Node ini sangat penting untuk alur kerja (*workflow*) **Image-to-Video (I2V)** (seperti **Wan 2.2**), di mana penggunaan gambar input beresolusi tinggi sering menyebabkan error **OOM (Out of Memory)**. Node ini membantu kamu menemukan "titik manis" (misalnya, 480p atau 720p) secara instan tanpa perlu menghitung secara manual.
 
-![Simple Resolution Divider Node](Node%20Resolution%20Divider.png)
+![Simple Resolution Divider Node](demo.gif)
 
 ## 🚀 Fitur Utama
 
